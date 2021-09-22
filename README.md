@@ -16,8 +16,8 @@ After downloading the files for the game, it is easy to start playing. Just open
 (Check the wiki for game controls)
 
 # Video Teaser
-https://web.microsoftstream.com/video/9f04fcf5-b297-46cb-8ce4-66d1d8a454fe
+https://youtu.be/KHAV9XUGuzk
 
 # Credits
-- Kanokwan Budsarakoon
-- Ashley Fredricksen
+- Kanokwan Budsarakoon (Front-end)
+- Ashley Fredricksen (Back-end)
